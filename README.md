@@ -69,3 +69,16 @@ And the frontend will run on http://localhost:3000
 
 # Thanks
 Thanks to prof. [John Guerra](https://johnguerra.co/classes/webDevelopment_fall_2022/)
+
+
+
+##Feedback(Mihir Mesia)
+
+I tried to run the website, but the link is not working. The website is not loading.
+After going through your code, here are my few suggestions
+  1.In Login.js files in frontend folder, the proptypes declaration is missing
+  2. In LeaveReviewForm.js there is big chunk of commented code. It would have been better, if you would have removed it.
+  3. The api files in services, do not follow the naming convention. They are named as user.auth.js. I would suggest using '-' or underscore for that.
+I was not able to open the website, it showed error 502. 
+
+
